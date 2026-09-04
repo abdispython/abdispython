@@ -1,6 +1,6 @@
 # Hi, I'm Abdulfetah Yasin 👋
 
-I'm a Computer Science student at Arizona State University with an interest in data analytics and data science.
+I'm a Computer Science student at Arizona State University with an interest in data analytics and data engineering.
 
 ## Skills
 
