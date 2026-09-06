@@ -1,22 +1,15 @@
 # Hi, I'm Abdulfetah Yasin 👋
 
-I'm a Computer Science student at Arizona State University focused on data analytics. I use Python, SQL, Excel, and Power BI to analyze data, build dashboards, and answer business-focused questions.
+I'm a Computer Science student at Arizona State University focused on **Data Analytics and Business Intelligence**. I use **SQL, Python, Excel/Power Query, Power BI, and Tableau** to analyze data, build dashboards, and answer business-focused questions.
 
-I'm currently seeking Summer 2027 Data Analyst internship opportunities.
+I'm currently seeking **Summer 2027 internship opportunities in Data Analytics, Business Intelligence, and Data Analyst roles.**
 
 ## Skills
 
-- SQL
-- Microsoft Excel
-- Power BI
-- Python
-- Pandas
-- Power Query
-- Tableau
-- SQLite
-- DAX
-- Data Cleaning and Analysis
-- Data Visualization
+**Languages:** SQL, Python  
+**Data & BI:** Excel, Power Query, Power BI, Tableau, DAX  
+**Libraries:** Pandas, NumPy, Matplotlib, Plotly  
+**Databases & Tools:** SQLite, Jupyter Notebook
 
 ## Projects
 
